@@ -9,4 +9,4 @@ Isn't it crazy that, as IT professionals, we're constantly looking to peice toge
 
 ## So, how do I get started?
 
-To kick things off, we have a few pretty commonly used 
+To kick things off, we have a few pretty commonly used data sources that you'll find in the left column of this page.  You can also see the "Using the Data" section to learn how you can bring this data into your environment.

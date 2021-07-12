@@ -1,0 +1,4 @@
+baseURL = "https://datafornerds.io/"
+languageCode = "en-us"
+title = "DataForNerds"
+theme = "hugo-geekdoc-0.14.1"

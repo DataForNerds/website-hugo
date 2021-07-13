@@ -5,7 +5,7 @@ draft: false
 ---
 
 ## Hello World, what am I doing here?
-Isn't it crazy that, as IT professionals, we're constantly looking to peice together information from all over the web into a useable format for querying, coding, and reporting? And it's never in a format that's _actually_ useful so we either build our own database tables (that we never keep up to date), we depend on normalization products, or we come up with kluge solutions that are never maintainable long term. That's the problem we're trying to solve here. We want to collect the data once, put it into an easily consumed format (JSON), and then let anyone and everyone come use it.
+Isn't it crazy that, as IT professionals, we're constantly looking to piece together information from all over the web into a useable format for querying, coding, and reporting? And it's never in a format that's _actually_ useful so we either build our own database tables (that we never keep up to date), we depend on normalization products, or we come up with kluge solutions that are never maintainable long term. That's the problem we're trying to solve here. We want to collect the data once, put it into an easily consumed format (JSON), and then let anyone and everyone come use it.
 
 ## So, how do I get started?
 

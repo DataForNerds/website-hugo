@@ -6,11 +6,6 @@ draft: false
 
 Microsoft M365 Apps for Business (formerly Office 365) build numbers are in JSON format at this address: [https://raw.datafornerds.io/ms/msapps/buildnumbers.json](https://raw.datafornerds.io/ms/msapps/buildnumbers.json). The source of this information is [this site](https://docs.microsoft.com/en-us/officeupdates/update-history-microsoft365-apps-by-date). The data is validated hourly.
 
-## Known Issues
-The following known issues are pending correction:
-- [Some Office Versions have a space in the version number](https://github.com/DataForNerds/public/issues/10)
-- [Office Builds Without Years are Defaulting to 2021](https://github.com/DataForNerds/public/issues/11)
-
 ## Sample Data
 ```json
 {

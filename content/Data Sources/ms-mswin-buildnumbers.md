@@ -4,7 +4,7 @@ date: 2021-07-08T16:28:20-04:00
 draft: false
 ---
 
-Windows Builds are available in JSON format at this address: [https://raw.datafornerds.io/ms/mswin/buildnumbers.json](https://raw.datafornerds.io/ms/mswin/buildnumbers.json). The source of this information is [this site](https://docs.microsoft.com/en-us/windows/release-health/release-information).  The data is validated hourly.
+Windows Builds are available in JSON format at this address: [https://raw.datafornerds.io/ms/mswin/buildnumbers.json](https://raw.datafornerds.io/ms/mswin/buildnumbers.json). The source of this information is [this site](https://support.microsoft.com/en-us/topic/windows-10-update-history-1b6aac92-bf01-42b5-b158-f80c6d93eb11).  The data is validated hourly.
 
 
 ## Sample Data
@@ -12,10 +12,7 @@ Windows Builds are available in JSON format at this address: [https://raw.datafo
 {
 	"DataForNerds": {
 		"LastUpdatedUTC": "\/Date(1625758980460)\/",
-		"SourceList": [
-			"https://docs.microsoft.com/en-us/windows/release-health/release-information",
-			"https://winreleaseinfoprod.blob.core.windows.net/winreleaseinfoprod/en-US.html"
-		]
+		"SourceList": "https://support.microsoft.com/en-us/topic/windows-10-update-history-1b6aac92-bf01-42b5-b158-f80c6d93eb11"
 	},
 	"Data": [{
 		"Win10Version": "10.0.10240.16683",

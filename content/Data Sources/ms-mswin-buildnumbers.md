@@ -11,7 +11,7 @@ Windows Builds are available in JSON format at this address: [https://raw.datafo
 ```json
 {
 	"DataForNerds": {
-		"LastUpdatedUTC": "\/Date(1625758980460)\/",
+		"LastUpdatedUTC": "2021-10-26T19:15:20.4188207Z",
 		"SourceList": "https://support.microsoft.com/en-us/topic/windows-10-update-history-1b6aac92-bf01-42b5-b158-f80c6d93eb11"
 	},
 	"Data": [{
